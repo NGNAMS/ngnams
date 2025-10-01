@@ -1,7 +1,7 @@
 # Hi, I'm Negin Amirsoleimani 👋
-**Machine Learning Engineer — Toronto, ON**
+**Machine Learning Engineer, Toronto, ON**
 
-I build end-to-end ML systems—from data pipelines and model training to deployment and monitoring. Comfortable across Python, cloud ML infra (AWS/GCP), and MLOps (Docker/Kubernetes/CI/CD). Interested in cloud-native databases, vector search/similarity, and publishable research.
+I build end-to-end ML systems from data pipelines and model training to deployment and monitoring. Comfortable across Python, cloud ML infra (AWS/GCP), and MLOps (Docker/Kubernetes/CI/CD). Interested in cloud-native databases, vector search/similarity, and publishable research.
 
 [Email](mailto:neginamirsoleimani@outlook.com) · [LinkedIn](https://www.linkedin.com/in/neginamirsoleimani)
 
