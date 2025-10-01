@@ -3,7 +3,7 @@
 
 I build end-to-end ML systems—from data pipelines and model training to deployment and monitoring. Comfortable across Python, cloud ML infra (AWS/GCP), and MLOps (Docker/Kubernetes/CI/CD). Interested in cloud-native databases, vector search/similarity, and publishable research.
 
-[Email](mailto:neginamirsoleimani@outlook.com) · [LinkedIn](https://www.linkedin.com/in/neginamirsoleimani) · Toronto, ON · (226) 698-3620
+[Email](mailto:neginamirsoleimani@outlook.com) · [LinkedIn](https://www.linkedin.com/in/neginamirsoleimani)
 
 ---
 
